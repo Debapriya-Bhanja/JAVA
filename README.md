@@ -25,9 +25,7 @@
 
 ## 📌 About This Repository
 
-<p align="center">
-  <img src="./assets/mern.gif" width="420"/>
-</p>
+
 
 This repository contains my **basic Java programs written topic-wise**.
 
@@ -42,25 +40,7 @@ It helps me to:
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
-</p>
 ---
 
 ## 📂 Topics Covered
