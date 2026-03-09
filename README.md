@@ -42,6 +42,10 @@ It helps me to:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+</p>
+
 ---
 
 ## 📂 Topics Covered
