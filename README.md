@@ -33,6 +33,9 @@ It helps me to:
 - Improve logical thinking  
 - Prepare for DSA & interviews  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
+</p>
 ---
 
 ## 📂 Topics Covered
