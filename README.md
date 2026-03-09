@@ -46,6 +46,9 @@ It helps me to:
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="420"/>
+</p>
 ---
 
 ## 📂 Topics Covered
