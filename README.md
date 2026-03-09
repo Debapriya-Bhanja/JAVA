@@ -25,6 +25,10 @@
 
 ## 📌 About This Repository
 
+<p align="center">
+  <img src="./assets/mern.gif" width="420"/>
+</p>
+
 This repository contains my **basic Java programs written topic-wise**.
 
 It helps me to:
